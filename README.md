@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Salban Nithilaselvan
+- 🔭 I’m currently working on coding FTC 15167's robot 🤖 for the 22-23 season
+- 🌱 I’m currently learning about Machine Learning 🧠 and apllications to Computer Vision 📸
+- 💬 Ask me about anything realted to volleyball 🏐 or Formula 1 🏁
+- ⚡ Fun fact: I also like to collect US State and US National Park Quarters 💰! 
+- 📫 How to reach me: Shoot me an email 📧 at salban.nithilaselvan@gmail.com!
 
 <!--
 **spanini2/spanini2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
