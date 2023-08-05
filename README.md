@@ -1,5 +1,5 @@
 ### I'm Salban Nithilaselvan
-- 🔭 I’m currently interning at Dartmouth's EDIT ML Lab, wroking on research in deep learning with cancer survival analysis
+- 🔭 I’m currently interning at Dartmouth's EDIT ML Lab, working on research in multimodal deep learning with cancer survival analysis
 - 💬 Ask me about anything related to Formula 1 🏁 (Go McLaren! 🟠)
 - 📫 Reach me at salban.nithilaselvan@gmail.com
 
